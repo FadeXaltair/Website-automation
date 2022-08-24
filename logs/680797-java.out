@@ -1,0 +1,16 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1014milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1014"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 34301"}
+{"logLevel":"info","message":"Listening on port:34301"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Loading Go to Gauge Get Started Pagevia reflected sources."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : null"}
+{"logLevel":"fatal","message":"Error in thread 15\nnull\njava.lang.NullPointerException\n\tat com.thoughtworks.gauge.connection.StubImplementationCodeProcessor.implementInExistingClass(StubImplementationCodeProcessor.java:109)\n\tat com.thoughtworks.gauge.connection.StubImplementationCodeProcessor.implementInExistingFile(StubImplementationCodeProcessor.java:59)\n\tat com.thoughtworks.gauge.connection.StubImplementationCodeProcessor.process(StubImplementationCodeProcessor.java:42)\n\tat com.thoughtworks.gauge.RunnerServiceHandler.lambda$implementStub$16(RunnerServiceHandler.java:318)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\n"}

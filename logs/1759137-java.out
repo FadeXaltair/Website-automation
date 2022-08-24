@@ -1,0 +1,62 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 457milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 457"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 46379"}
+{"logLevel":"info","message":"Listening on port:46379"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 21118
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 01, 2022 6:11:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Validate all the headings' using 'class home.validateAllTheHeadings"}
+ this is heading 
+              Driving Augmented Intelligence
+            
+ this is heading Trusted by the world’s leading enterprises and partners to futurify the businesses leveraging cloud native and AI.
+ this is heading Human and Data-Centric Approach for Intelligent Outcomes
+ this is heading Innovation Stack Approach enables enterprises to Improve the Business of Experience
+ this is heading Technology Consulting and Strategy
+ this is heading Technology Consulting and Strategy
+ this is heading Use Cases
+ this is heading Toolkit for Intelligent Decisioning
+ this is heading Featured Blogs and Insights
+ this is heading Build, Deploy and Run Modern Cloud Applications
+ this is heading Harness the power of data in data-oriented world
+ this is heading Build AI enabled applications to enhance business
+ this is heading Build a Digital Platform
+ this is heading Cloud Native Transformation
+ this is heading Harness the Power of Data and Analytics
+ this is heading Intelligent Process Automation
+ this is heading Secure the Data and Information
+ this is heading Manage the Cloud Infrastructure
+ this is heading Enhancing AI and MLOps Capabilities
+ this is heading SRE Managed Services
+ this is heading Data Intelligence driven Solutions
+ this is heading Platform Strategy
+ this is heading DataOps and Data Mesh Strategy
+ this is heading Multi Cloud Strategy
+ this is heading Cloud Native Security
+ this is heading Enterprise AI and Decision Intelligence
+ this is heading Edge AI vs Federated Learning | Complete Overview
+ this is heading Briefing Machine learning Platforms with Services and Solutions
+ this is heading Acknowledging Data Management Best Practices with DataOps
+ this is heading Top 10 Best Practices for Enterprise DevOps Transformation
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

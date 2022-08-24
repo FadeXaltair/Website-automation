@@ -1,0 +1,203 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 593milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 593"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 43779"}
+{"logLevel":"info","message":"Listening on port:43779"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.imagesInTheHomePage' and 'home.imagesInTheHomePage'"}
+{"logLevel":"debug","message":"Found Images in the home page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage' and 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Validate all the headings for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.verifyTheContentsForCloudMigrationPage' and 'cloud_migration.verifyTheContentsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Verify the contents for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.verifyTheContentForFachSubHeading' and 'home.verifyTheContentForFachSubHeading'"}
+{"logLevel":"debug","message":"Found Verify the contents in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage' and 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tVerify the contents for cloud migration page : public void verifyTheContentsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the contents : public void verifyTheContentForFachSubHeading()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation for cloud migration page : public void linksValidationAndTitlesValidationForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tValidate all the headings for cloud migration page : public void validateAllTheHeadingsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tImages in the home page : public int imagesInTheHomePage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 1986
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 08, 2022 5:43:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Images in the home page' using 'class home.imagesInTheHomePage"}
+No. of Images: 157
+https://www.xenonstack.com/hubfs/xenonstack-iconmonstr-search-thin.svg
+https://www.xenonstack.com/hubfs/xenonstack-website-new-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-hamburger.svg
+https://www.xenonstack.com/hubfs/xenonstack-blog.svg
+https://www.xenonstack.com/hubfs/xenonstack-neural-company.svg
+https://www.xenonstack.com/hubfs/xenonstack-website-new-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-down-arrow.webp
+https://www.xenonstack.com/hubfs/xenonstack-service-computer-vision-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-robotic-process-automation-services-provider.svg
+https://www.xenonstack.com/hubfs/xenonstack-cognitive-customer-analytics-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-natural-language-processing-image.svg
+https://www.xenonstack.com/hubfs/xenonstack-service-cloud-native-applications-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-analytics-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-service-cloud-migration-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-hybrid-multi-cloud-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-enterprise-data-strategy-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-warehouse-moderization-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-service-big-data-analytics-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-internet-of-things-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-product-engineering-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-platform-strategy-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-intelligent-enterprise.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-native-secuirty-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-managed-services-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-consulting-services-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-down-arrow.webp
+https://www.xenonstack.com/hubfs/xenonstack-google-cloud-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-amazon-aws-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-microsoft-azure-cloud-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-kubernetes-solutions-service-provider.svg
+https://www.xenonstack.com/hubfs/xenonstack-gitops-with-continuous-delivery-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-knowledge-graph-analytics-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-catalog-discovery-platform-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-machine-learning-operations.svg
+https://www.xenonstack.com/hubfs/xenonstack-serverless-application-platform.svg
+https://www.xenonstack.com/hubfs/xenonstack-infrastructure.svg
+https://www.xenonstack.com/hubfs/xenonstack-time-series-analytics-startegy.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-twin-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-big-data-testing.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-twin-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-blockchain-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-business-intelligence-header.svg
+https://www.xenonstack.com/hubfs/xenonstack-solutions-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-down-arrow.webp
+https://www.xenonstack.com/hubfs/xenonstack-devops-service.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-big-data-service.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-science-service.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-infrastructure-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-healthcare-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-smart-public-safety-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-banking-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-cyber-security-servicres.svg
+https://www.xenonstack.com/hubfs/xenonstack-retail-transformation-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-insurance-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-digital-manufacturing-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-industries-digital-transformation-service-provider.svg
+https://www.xenonstack.com/hubfs/xenonstack-industry-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-down-arrow.webp
+https://www.xenonstack.com/hubfs/xenonstack-resources-dropdown.svg
+https://www.xenonstack.com/hubfs/xenonstack-blogs-technology-trends.svg
+https://www.xenonstack.com/hubfs/xenonstack-insights-industry-trends.svg
+https://www.xenonstack.com/hubfs/xenonstack-videos-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-webinars.svg
+https://www.xenonstack.com/hubfs/xenonstack-resources-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-down-arrow.webp
+https://www.xenonstack.com/hubfs/xenonstack-enterprise-transformation-service-provider.svg
+https://www.xenonstack.com/hubfs/xenonstack-about-us.svg
+https://www.xenonstack.com/hubfs/xenonstack-our-purpose-header.svg
+https://www.xenonstack.com/hubfs/xenonstack-tao-consulting.svg
+https://www.xenonstack.com/hubfs/xenonstack-tao-consulting.svg
+https://www.xenonstack.com/hubfs/xenonstack-clients-partners-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-stacklabs-strategy.svg
+https://www.xenonstack.com/hubfs/xenonstack-neural-company-service-provider.svg
+https://www.xenonstack.com/hubfs/xenonstack-company-header-strip.svg
+https://www.xenonstack.com/hubfs/xenonstack-right-button-white.svg
+https://www.xenonstack.com/hubfs/xenonstack-iconmonstr-search-thin.svg
+https://www.xenonstack.com/hubfs/xenonstack-blog.svg
+https://www.xenonstack.com/hubfs/xenonstack-neural-company.svg
+https://www.xenonstack.com/hubfs/xenonstack-building-intelligent-cloud-platform-mobile.svg
+https://www.xenonstack.com/hubfs/xenonstack-building-intelligent-cloud-platform-mobile.svg
+https://www.xenonstack.com/hubfs/xenonstack-carhartt.webp
+https://www.xenonstack.com/hubfs/xenonstack-landmark.webp
+ttps://www.xenonstack.com/hubfs/xenonstack-ford.webp
+https://www.xenonstack.com/hubfs/xenonstack-aws.webp
+https://www.xenonstack.com/hubfs/xenonstack-subex.webp
+https://www.xenonstack.com/hubfs/xenonstack-cncf.webp
+thttps://www.xenonstack.com/hubfs/xenonstack-vestas.webp
+https://www.xenonstack.com/hubfs/xenonstack-techstyleos.webp
+https://www.xenonstack.com/hubfs/xenonstack-kubernetes.webp
+https://www.xenonstack.com/hubfs/xenonstack-carhartt.webp
+https://www.xenonstack.com/hubfs/xenonstack-landmark.webp
+ttps://www.xenonstack.com/hubfs/xenonstack-ford.webp
+https://www.xenonstack.com/hubfs/xenonstack-aws.webp
+https://www.xenonstack.com/hubfs/xenonstack-subex.webp
+https://www.xenonstack.com/hubfs/xenonstack-cncf.webp
+thttps://www.xenonstack.com/hubfs/xenonstack-vestas.webp
+https://www.xenonstack.com/hubfs/xenonstack-techstyleos.webp
+https://www.xenonstack.com/hubfs/xenonstack-kubernetes.webp
+https://f.hubspotusercontent-eu1.net/hubfs/24902366/xenonstack-left-button-black.svg
+https://f.hubspotusercontent-eu1.net/hubfs/24902366/right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-build-digital-platform.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-native-transformation.svg
+https://www.xenonstack.com/hubfs/xenonstack-harness-the-power-of-data-and-analytics.svg
+https://www.xenonstack.com/hubfs/xenonstack-optimize-your-operations-intelligent-process-automation.svg
+https://www.xenonstack.com/hubfs/xenonstack-secure-the-data-and-information.svg
+https://www.xenonstack.com/hubfs/xenonstack-explainable-ai-and-modelops.svg
+https://www.xenonstack.com/hubfs/xenonstack-enhancing-ai.svg
+https://www.xenonstack.com/hubfs/xenonstack-sre-managed-services-solutions.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-intelligence-driven-solution.svg
+https://www.xenonstack.com/hubfs/xenonstack-platform-strategy-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-dataops-and-data-mesh-strategy.svg
+https://www.xenonstack.com/hubfs/xenonstack-multi-cloud-strategy-solution.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-native-secuirty.svg
+https://www.xenonstack.com/hubfs/xenonstack-enterprise-ai-and-decision-intelligence.svg
+https://www.xenonstack.com/hubfs/xenonstack-platform-strategy-services.svg
+https://www.xenonstack.com/hubfs/xenonstack-dataops-and-data-mesh-strategy.svg
+https://www.xenonstack.com/hubfs/xenonstack-multi-cloud-strategy-solution.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-native-secuirty.svg
+https://www.xenonstack.com/hubfs/xenonstack-enterprise-ai-and-decision-intelligence.svg
+https://9471087.fs1.hubspotusercontent-na1.net/hubfs/9471087/modal-images/Group%209781.svg
+https://www.xenonstack.com/hubfs/xenonstack-internal-developer.svg
+https://www.xenonstack.com/hubfs/xenonstack-blue-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-white-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-observability-application.svg
+https://www.xenonstack.com/hubfs/xenonstack-blue-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-white-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-siem-and-managed-soc.svg
+https://www.xenonstack.com/hubfs/xenonstack-blue-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-white-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-explainable-ai-and-modelops.svg
+https://www.xenonstack.com/hubfs/xenonstack-blue-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-white-right-arrow.svg
+https://www.xenonstack.com/hubfs/xenonstack-toolkit-for-organisations.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-science-thumbnail.svg
+https://www.xenonstack.com/hubfs/xenonstack-enterprise-ai-thumbnail.svg
+https://www.xenonstack.com/hubfs/xenonstack-big-data-engineering-thumbnail.svg
+https://www.xenonstack.com/hubfs/xenonstack-devops-thumbnail.svg
+https://www.xenonstack.com/hubfs/xenonstack-youtube.svg
+https://www.xenonstack.com/hubfs/xenonstack-linkedin.svg
+https://www.xenonstack.com/hubfs/xenonstack-facebook.svg
+https://www.xenonstack.com/hubfs/xenonstack-twitter.svg
+https://www.xenonstack.com/hubfs/xenonstack-medium.svg
+https://www.xenonstack.com/hubfs/xenonstack-instragram.svg
+https://www.xenonstack.com/hubfs/xenonstack-cloud-native-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-linux-foundation-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-LFI-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-microsoft-partner-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-google-cloud-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-data-bricks-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-kubernetes-logo.svg
+https://www.xenonstack.com/hubfs/xenonstack-AWS-logo.svg
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

@@ -1,0 +1,357 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1402milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1402"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 45347"}
+{"logLevel":"info","message":"Listening on port:45347"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found abcdef in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tabcdef : public void third() throws InterruptedException"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 27596
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 27, 2022 3:59:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'abcdef' using 'class home.third"}
+ here is size of link: 164
+THe link is: https://www.xenonstack.com/
+The title is: XenonStack - Cloud Native and Data Intelligence Company
+THe link is: https://www.xenonstack.com/blog/
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack
+THe link is: https://www.xenonstack.com/neural-company-enablers/
+The title is: The Neural Company Enablers for Digital Transformation
+THe link is: https://www.xenonstack.com/
+The title is: XenonStack - Cloud Native and Data Intelligence Company
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/
+The title is: Artificial Intelligence Services and Solutions Company
+THe link is: https://www.xenonstack.com/cloud-services/
+The title is: Cloud Consulting Services, Advisory and Solutions Company
+THe link is: https://www.xenonstack.com/services/big-data-services/
+The title is: Big Data Consulting Services and Solutions Company
+THe link is: https://www.xenonstack.com/product-engineering/platform-services/
+The title is: Digital Platform Engineering and Development Services Company
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/computer-vision/
+The title is: Computer Vision Services and Solutions Company - XenonStack
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+The title is: RPA Consulting Services, Development and Solution Company
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/cognitive-customer-analytics/
+The title is: Customer Analytics Services and Strategy Consulting Solutions
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/natural-language-processing/
+The title is: Natural Language Processing Services and Solutions Company
+THe link is: https://www.xenonstack.com/solutions/cloud-native-applications/
+The title is: Cloud Native Application Development Services and Solutions
+THe link is: https://www.xenonstack.com/solutions/application-modernization/
+The title is: Application Modernization Services, Strategy and Solutions
+THe link is: https://www.xenonstack.com/services/cloud-migration/
+The title is: Cloud Migration Services, Strategy and Solutions Company
+THe link is: https://www.xenonstack.com/hybrid-and-multi-cloud/
+The title is: Hybrid-Multi Cloud Solutions and Services - XenonStack
+THe link is: https://www.xenonstack.com/services/big-data-services/
+The title is: Big Data Consulting Services and Solutions Company
+THe link is: https://www.xenonstack.com/solutions/data-warehouse/
+The title is: Data Warehouse Consulting Services and Solutions Company
+THe link is: https://www.xenonstack.com/big-data-analytics/
+The title is: Big Data Analytics Consulting Services and Solution Company
+THe link is: https://www.xenonstack.com/solutions/internet-of-things/
+The title is: Internet of Things (IoT) Consulting Services and Solutions
+THe link is: https://www.xenonstack.com/big-data-analytics/data-visualization/
+The title is: Data Visualization Consulting Services and Solutions Company
+THe link is: https://www.xenonstack.com/product-engineering/platform-services/
+The title is: Digital Platform Engineering and Development Services Company
+THe link is: https://www.xenonstack.com/connected-intelligent-enterprise/
+The title is: Connected Intelligent Enterprise Solutions Company
+THe link is: https://www.xenonstack.com/cloud-security/
+The title is: Cloud Security Consulting Services and Deployment Solutions
+THe link is: https://www.xenonstack.com/managed-services/
+The title is: Cloud Managed Services and Hybrid Management Platform
+THe link is: https://www.xenonstack.com/services/
+The title is: Digital Consulting Services for Business Transformation
+THe link is: https://www.xenonstack.com/technology-consulting/
+The title is: Technology Solutions and End-to-End Service Provider
+THe link is: https://www.xenonstack.com/solutions/
+The title is: Digital Transformation Consulting Services and Solutions
+THe link is: https://www.xenonstack.com/technology-consulting/google-cloud-platform/
+The title is: GCP Migration and Application Modernization Services
+THe link is: https://www.xenonstack.com/technology-consulting/aws-cloud-services/
+The title is: AWS Cloud Migration Services and Consulting Solutions Company
+THe link is: https://www.xenonstack.com/technology-consulting/azure-cloud-services/
+The title is: Azure Cloud Migration and Modernization Services
+THe link is: https://www.xenonstack.com/solutions/kubernetes-solutions/
+The title is: Kubernetes Consulting Services and Solutions Provider Company
+THe link is: https://www.xenonstack.com/gitops-continuous-delivery/
+The title is: Continuous Delivery Solutions and Services with GitOps
+THe link is: https://www.xenonstack.com/knowledge-graph/
+The title is: Enterprise Knowledge Graph Solutions and Consulting Services
+THe link is: https://www.xenonstack.com/product-engineering/data-catalog-platform/
+The title is: Data Catalog Platform with Governance and Security - Elixirdata
+THe link is: https://www.xenonstack.com/big-data-analytics/machine-learning/
+The title is: Machine Learning Development Services Company
+THe link is: https://www.xenonstack.com/services/serverless-development/
+The title is: Serverless Development and Data Engineering Services
+THe link is: https://www.xenonstack.com/product-engineering/infrastructure-as-code-platform/
+The title is: Nexastack - The Infrastructure as Code Platform for Cloud Native
+THe link is: https://www.xenonstack.com/services/real-time-analytics/
+The title is: Real Time Analytics Services and Solutions - XenonStack
+THe link is: https://www.xenonstack.com/digital-twin/
+The title is: Digital Twin Consulting Services and Solutions for MetaVerse
+THe link is: https://www.xenonstack.com/solutions/big-data-testing/
+The title is: Big Data Testing Services , Strategy and Solutions - XenonStack
+THe link is: https://www.xenonstack.com/enterprise-search/
+The title is: Enterprise Search Solutions and Services Consulting Company
+THe link is: https://www.xenonstack.com/solutions/blockchain/
+The title is: Blockchain Services and Development Solutions Company
+THe link is: https://www.xenonstack.com/solutions/business-intelligence/
+The title is: Business Intelligence Services and Solutions - XenonStack
+THe link is: https://www.xenonstack.com/solutions/
+The title is: Digital Transformation Consulting Services and Solutions
+THe link is: https://www.xenonstack.com/readiness-assessment/
+The title is: Cloud Assessment and Adoption for DevOps, Big Data, AI - XenonStack
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/
+The title is: Artificial Intelligence Solutions for Data-Driven Enterprises
+THe link is: https://www.xenonstack.com/readiness-assessment/devops-strategy/
+The title is: End-to-End DevOps Readiness Assessment for Enterprises
+THe link is: https://www.xenonstack.com/readiness-assessment/cloud-consulting/
+The title is: Cloud Strategy and Maturity Assessment for Enterprises
+THe link is: https://www.xenonstack.com/readiness-assessment/big-data-assessment/
+The title is: Big Data Maturity Model and Readiness Assessment
+THe link is: https://www.xenonstack.com/readiness-assessment/data-science-strategy/
+The title is: Data Science and Machine Learning Assessment
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/infrastructure/
+The title is: AI Services and Solutions for Infrastructure Development - XenonStack
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/healthcare/
+The title is: Artificial Intelligence Solutions for Healthcare - XenonStack
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/public-safety/
+The title is: Artificial Intelligence Services Offerings for Public Safety
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/banking-and-finance/
+The title is: Artificial Intelligence Powered for Finance, Banking Industry
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/cyber-security/
+The title is: Artificial Intelligence Enabled Cyber Security Solutions
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/retail-supply-chain/
+The title is: Artificial Intelligence Solutions for Retail and Supply Chain Industry
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/insurance/
+The title is: AI and Analytics Driven Solutions for Insurance Sector - XenonStack
+THe link is: https://www.xenonstack.com/artificial-intelligence-solutions/manufacturing/
+The title is: Artificial Intelligence based Solutions for Manufacturing
+THe link is: https://www.xenonstack.com/industries/
+The title is: Industrial Digital Transformation Strategy and Business Consulting
+THe link is: https://www.xenonstack.com/industries/
+The title is: Industrial Digital Transformation Strategy and Business Consulting
+THe link is: https://www.xenonstack.com/blog/
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack
+THe link is: https://www.xenonstack.com/insights/
+The title is: XenonStack Data Insights on DevOps, Cloud and Data Science
+THe link is: https://www.xenonstack.com/videos/
+The title is: Videos on AI | DevOps | Real-Time Streaming Analytics - XenonStack
+THe link is: https://www.xenonstack.com/use-cases/
+The title is: Solution Architecture And Use Cases - XenonStack
+THe link is: https://www.xenonstack.com/resources/
+The title is: XenonStack Industry Insights for DevOps, Data Science, Cloud and AI
+THe link is: https://www.xenonstack.com/blog/
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack
+THe link is: https://www.xenonstack.com/insights/
+The title is: XenonStack Data Insights on DevOps, Cloud and Data Science
+THe link is: https://www.xenonstack.com/videos/
+The title is: Videos on AI | DevOps | Real-Time Streaming Analytics - XenonStack
+THe link is: https://www.xenonstack.com/use-cases/
+The title is: Solution Architecture And Use Cases - XenonStack
+THe link is: https://www.xenonstack.com/resources/
+The title is: XenonStack Industry Insights for DevOps, Data Science, Cloud and AI
+THe link is: https://www.xenonstack.com/neural-company/
+The title is: The Path to Become a Neural Company
+THe link is: https://www.xenonstack.com/about-us/partners-clients/
+The title is: XenonStack Cloud and DevOps Partners and Clients - XenonStack
+THe link is: https://www.xenonstack.com/neural-company/
+The title is: The Path to Become a Neural Company
+THe link is: https://www.xenonstack.com/about-us/
+The title is: About us | Neural Company - MetaVerse | XenonStack
+THe link is: https://www.xenonstack.com/our-purpose/
+The title is: Our Purpose, Core Values, and Mission | XenonStack
+THe link is: https://www.xenonstack.com/how-we-work/
+The title is: How We Work | XenonStack Principles
+THe link is: https://www.xenonstack.com/how-we-grow/
+The title is: How we work | XenonStack Principles
+THe link is: https://www.xenonstack.com/about-us/partners-clients/
+The title is: XenonStack Cloud and DevOps Partners and Clients - XenonStack
+THe link is: https://www.xenonstack.com/xenonstack-university/
+The title is: Stacklabs Training Academy - Ready to use Hands-on Cloud Enabled Labs
+THe link is: https://www.xenonstack.com/neural-company-enablers/
+The title is: The Neural Company Enablers for Digital Transformation
+THe link is: https://www.xenonstack.com/neural-company/
+The title is: The Path to Become a Neural Company
+THe link is: https://www.xenonstack.com/contact-us/
+The title is: Strategic Partner for Cloud Native and AI Transformation
+THe link is: https://www.xenonstack.com/blog/
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack
+THe link is: https://www.xenonstack.com/neural-company-enablers/
+The title is: The Neural Company Enablers for Digital Transformation
+THe link is: https://enterprise.xenonstack.com/
+The title is: Customer Journey
+THe link is: https://www.xenonstack.com/solutions/cloud-native-applications/
+The title is: Cloud Native Application Development Services and Solutions
+THe link is: https://www.xenonstack.com/services/dataops/
+The title is: Data Management and Analytics Services & Solutions - DataOps
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/
+The title is: Artificial Intelligence Services and Solutions Company
+THe link is: https://www.xenonstack.com/product-engineering/platform-services/
+The title is: Digital Platform Engineering and Development Services Company
+THe link is: https://www.xenonstack.com/cloud-services/
+The title is: Cloud Consulting Services, Advisory and Solutions Company
+THe link is: https://www.xenonstack.com/big-data-analytics/
+The title is: Big Data Analytics Consulting Services and Solution Company
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+The title is: RPA Consulting Services, Development and Solution Company
+THe link is: https://www.xenonstack.com/cyber-security/
+The title is: Managed Cyber Security Consulting Solutions and Service Providers
+THe link is: https://www.xenonstack.com/managed-services/
+The title is: Cloud Managed Services and Hybrid Management Platform
+THe link is: https://www.xenonstack.com/artificial-intelligence-services/
+The title is: Artificial Intelligence Services and Solutions Company
+THe link is: https://www.xenonstack.com/sre-managed/
+The title is: Site Reliability Engineering Managed Services and Solutions
+THe link is: https://www.xenonstack.com/services/data-intelligence/
+The title is: Data Intelligence Services and Analytics Solutions
+THe link is: https://www.xenonstack.com/technology-consulting/
+The title is: Technology Solutions and End-to-End Service Provider
+THe link is: https://www.xenonstack.com/insights/digital-platform
+The title is: Digital Platform Strategy: Why and How It is Important for Businesses
+THe link is: https://www.xenonstack.com/industries/
+The title is: Industrial Digital Transformation Strategy and Business Consulting
+THe link is: https://www.xenonstack.com/use-cases/
+The title is: Solution Architecture And Use Cases - XenonStack
+THe link is: https://www.xenonstack.com/internal-developer-platform/
+The title is: Building Internal Developer Platform for Enterprises
+THe link is: https://www.xenonstack.com/cloud-siem-managed/
+The title is: Managed SIEM Solutions Provider and SOC Consulting Services
+THe link is: https://www.xenonstack.com/data-observability/
+The title is: BuildIng Data Observability Enabled Platform Solutions
+THe link is: https://www.xenonstack.com/explainable-ai-modelops/
+The title is: Explainable AI (XAI) and ModelOps Solutions
+THe link is: https://www.xenonstack.com/blog/tag/data-science
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack | Data Science
+THe link is: https://www.xenonstack.com/blog/edge-ai-vs-federated-learning
+The title is: Edge AI vs Federated Learning | Complete Overview
+THe link is: https://www.xenonstack.com/blog/tag/enterprise-ai
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack | Enterprise AI
+THe link is: https://www.xenonstack.com/blog/machine-learning-platforms
+The title is: Briefing Machine learning Platforms with Services and Solutions
+THe link is: https://www.xenonstack.com/blog/tag/big-data-engineering
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack | Big Data Engineering
+THe link is: https://www.xenonstack.com/blog/data-management-best-practices
+The title is: Acknowledging Data Management Best Practices with DataOps
+THe link is: https://www.xenonstack.com/blog/tag/devops
+The title is: Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack | DevOps
+THe link is: https://www.xenonstack.com/blog/seven-best-practices-for-enterprise-devops
+The title is: Top 10 Best Practices for Enterprise DevOps Transformation
+THe link is: https://www.xenonstack.com/neural-company/
+The title is: The Path to Become a Neural Company
+THe link is: https://landscape.cncf.io/members?selected=xenon-stack-member
+The title is: CNCF Cloud Native Interactive Landscape
+THe link is: https://www.linuxfoundation.org/join/members/
+The title is: Linux Foundation Members - Linux Foundation
+THe link is: https://landscape.lfai.foundation/members?zoom=120
+The title is: LF AI & Data Landscape
+THe link is: https://partners.amazonaws.com/partners/001E000001AoR0YIAV/XenonStack
+The title is: AWS Partner XenonStack
+THe link is: https://cloud.withgoogle.com/partners/detail/?id=xenonstack&hl=en-GB
+The title is: Partner Directory | Google Cloud - Partner profile
+THe link is: https://www.hashicorp.com/
+The title is: HashiCorp: Infrastructure enables innovation
+THe link is: https://landscape.cncf.io/card-mode?organization=xenon-stack&selected=xenon-stack-kcsp
+The title is: CNCF Cloud Native Interactive Landscape
+THe link is: https://www.microsoft.com/en-in/solution-providers/partnerdetails/8a2cd0b5-3295-47c4-8827-26b211c833b2/f7e5bac0-4340-4ec5-81c2-28c006dbc361
+The title is: Find the right app | Microsoft AppSource
+THe link is: https://www.youtube.com/c/XenonStackOfficial
+The title is: XenonStack - YouTube
+THe link is: https://www.linkedin.com/company/xenonstack/
+The title is: Sign In | LinkedIn
+THe link is: https://www.facebook.com/XenonStack
+The title is: XenonStack | Facebook
+THe link is: https://twitter.com/xenonstack
+The title is: XenonStack (@xenonstack) / Twitter
+THe link is: https://medium.com/@xenonstack
+The title is: Xenonstack – Medium
+THe link is: https://www.instagram.com/teamxenonstack/
+The title is: XenonStack (@teamxenonstack) • Instagram photos and videos
+THe link is: https://www.xenonstack.com/about-us/
+The title is: About us | Neural Company - MetaVerse | XenonStack
+THe link is: https://www.xenonstack.com/services/
+The title is: Digital Consulting Services for Business Transformation
+THe link is: https://www.xenonstack.com/solutions/
+The title is: Digital Transformation Consulting Services and Solutions
+THe link is: https://www.xenonstack.com/careers/
+The title is: Careers - Opportunities in Cloud,DevOps, Big Data and AI
+THe link is: https://www.xenonstack.com/product-engineering/user-experience/
+The title is: User Experience Design Agency, UX Design Services - XenonStack
+THe link is: https://www.xenonstack.com/solutions/enterprise-application/
+The title is: Enterprise Application Development Services and Management Solutions
+THe link is: https://www.xenonstack.com/services/software-development/
+The title is: Software Development and Engineering Services and Solutions
+THe link is: https://www.xenonstack.com/product-engineering/
+The title is: Digital Product Development and Engineering Services Company
+THe link is: https://www.xenonstack.com/big-data-analytics/data-science/
+The title is: Data Science Consulting Services and Solutions Company
+THe link is: https://www.xenonstack.com/readiness-assessment/cloud-consulting/
+The title is: Cloud Strategy and Maturity Assessment for Enterprises
+THe link is: https://www.xenonstack.com/readiness-assessment/big-data-assessment/
+The title is: Big Data Maturity Model and Readiness Assessment
+THe link is: https://www.xenonstack.com/readiness-assessment/devops-strategy/
+The title is: End-to-End DevOps Readiness Assessment for Enterprises
+THe link is: https://www.xenonstack.com/readiness-assessment/data-science-strategy/
+The title is: Data Science and Machine Learning Assessment
+THe link is: https://www.xenonstack.com/knowledge-graph/
+The title is: Enterprise Knowledge Graph Solutions and Consulting Services
+THe link is: https://www.xenonstack.com/product-engineering/data-catalog-platform/
+The title is: Data Catalog Platform with Governance and Security - Elixirdata
+THe link is: https://www.xenonstack.com/augmented-data-quality/
+The title is: Augmented Data Management and Quality Solutions
+THe link is: https://www.xenonstack.com/aws-serverless-solutions/
+The title is: AWS Serverless Solutions and Services - XenonStack
+THe link is: https://www.xenonstack.com/insights/workplace-analytics/
+The title is: How to Improve Workplace Productivity with Video Analytics?
+THe link is: https://www.xenonstack.com/insights/time-series-databases-in-real-time-analytics/
+The title is: Understanding Time-series Databases in Real-Time Analytics 
+THe link is: https://www.xenonstack.com/insights/managed-analytics/
+The title is: Managed Data Analytics Services and Solutions | XenonStack
+THe link is: https://www.xenonstack.com/sre-managed/
+The title is: Site Reliability Engineering Managed Services and Solutions
+THe link is: https://www.xenonstack.com/managed-ai-cloud/
+The title is: Fully Managed Cloud AI Services and Solution offerings
+THe link is: https://www.xenonstack.com/on-prem-ai-cluster/
+The title is: On-Premise AI Cluster Managed Services
+THe link is: https://www.xenonstack.com/careers/
+The title is: Careers - Opportunities in Cloud,DevOps, Big Data and AI
+THe link is: https://www.xenonstack.com/product-engineering/
+The title is: Digital Product Development and Engineering Services Company
+THe link is: https://www.elixirdata.com/
+The title is: ElixirData | Data Mesh as a Platform
+THe link is: https://www.nexastack.com/
+The title is: Nexastack - Infrastructure as Code Platform
+THe link is: https://www.metasecure.ai/
+The title is: Metasecure - Cloud Native Security Observability Platform
+THe link is: https://www.akira.ai/
+The title is: MLOps Platform for EDGE AI and Enterprise AI
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+THe link is: https://www.xenonstack.com/privacy-policy/
+The title is: Terms and Conditions | Privacy Policy | XenonStack
+164
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

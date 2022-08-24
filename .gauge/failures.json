@@ -1,0 +1,11 @@
+{
+	"Args": [
+		"run",
+		"--hide-suggestion",
+		"--simple-console",
+		"--dir=/home/xs238-hitran/Desktop/Xs Automate/gauge-tests"
+	],
+	"FailedItems": [
+		"specs/home_Page.spec:5"
+	]
+}

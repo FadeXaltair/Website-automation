@@ -1,0 +1,62 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 526milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 526"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 40855"}
+{"logLevel":"info","message":"Listening on port:40855"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 10938
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 01, 2022 6:12:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Validate all the headings' using 'class home.validateAllTheHeadings"}
+ this is Main heading 
+              Driving Augmented Intelligence
+            
+ this is Second heading Trusted by the world’s leading enterprises and partners to futurify the businesses leveraging cloud native and AI.
+ this is Second heading Human and Data-Centric Approach for Intelligent Outcomes
+ this is Second heading Innovation Stack Approach enables enterprises to Improve the Business of Experience
+ this is Second heading Technology Consulting and Strategy
+ this is Second heading Technology Consulting and Strategy
+ this is Second heading Use Cases
+ this is Second heading Toolkit for Intelligent Decisioning
+ this is Second heading Featured Blogs and Insights
+ this is third heading Build, Deploy and Run Modern Cloud Applications
+ this is third heading Harness the power of data in data-oriented world
+ this is third heading Build AI enabled applications to enhance business
+ this is third heading Build a Digital Platform
+ this is third heading Cloud Native Transformation
+ this is third heading Harness the Power of Data and Analytics
+ this is third heading Intelligent Process Automation
+ this is third heading Secure the Data and Information
+ this is third heading Manage the Cloud Infrastructure
+ this is third heading Enhancing AI and MLOps Capabilities
+ this is third heading SRE Managed Services
+ this is third heading Data Intelligence driven Solutions
+ this is third heading Platform Strategy
+ this is third heading DataOps and Data Mesh Strategy
+ this is third heading Multi Cloud Strategy
+ this is third heading Cloud Native Security
+ this is third heading Enterprise AI and Decision Intelligence
+ this is third heading Edge AI vs Federated Learning | Complete Overview
+ this is third heading Briefing Machine learning Platforms with Services and Solutions
+ this is third heading Acknowledging Data Management Best Practices with DataOps
+ this is third heading Top 10 Best Practices for Enterprise DevOps Transformation
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

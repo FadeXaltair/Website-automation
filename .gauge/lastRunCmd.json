@@ -1,0 +1,8 @@
+[
+	"gauge",
+	"run",
+	"--hide-suggestion",
+	"--simple-console",
+	"--dir=/home/xs238-hitran/Desktop/Xs Automate/gauge-tests",
+	"/home/xs238-hitran/Desktop/Xs Automate/gauge-tests/specs/home_Page.spec:5"
+]

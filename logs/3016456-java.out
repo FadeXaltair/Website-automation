@@ -1,0 +1,426 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 757milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 757"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 38345"}
+{"logLevel":"info","message":"Listening on port:38345"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.verifyTheContentForFachSubHeading' and 'home.verifyTheContentForFachSubHeading'"}
+{"logLevel":"debug","message":"Found Verify the contents in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the contents : public void verifyTheContentForFachSubHeading()"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 11612
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 03, 2022 2:44:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Links validation and titles validation' using 'class home.third"}
+ here is size of link: 163
+THe URL is valid https://www.xenonstack.com/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company-enablers/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/cloud-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/big-data-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/product-engineering/platform-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/computer-vision/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/cognitive-customer-analytics/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/natural-language-processing/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/cloud-native-applications/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/application-modernization/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/cloud-migration/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/hybrid-and-multi-cloud/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/big-data-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/data-warehouse/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/big-data-analytics/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/internet-of-things/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/big-data-analytics/data-visualization/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/product-engineering/platform-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/connected-intelligent-enterprise/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/cloud-security/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/managed-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/technology-consulting/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/technology-consulting/google-cloud-platform/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/technology-consulting/aws-cloud-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/technology-consulting/azure-cloud-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/kubernetes-solutions/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/gitops-continuous-delivery/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/knowledge-graph/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/product-engineering/data-catalog-platform/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/big-data-analytics/machine-learning/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/serverless-development/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/product-engineering/infrastructure-as-code-platform/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/real-time-analytics/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/digital-twin/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/big-data-testing/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/enterprise-search/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/blockchain/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/business-intelligence/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/readiness-assessment/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/readiness-assessment/devops-strategy/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/readiness-assessment/cloud-consulting/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/readiness-assessment/big-data-assessment/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/readiness-assessment/data-science-strategy/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/infrastructure/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/healthcare/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/public-safety/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/banking-and-finance/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/cyber-security/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/retail-supply-chain/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/insurance/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-solutions/manufacturing/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/industries/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/industries/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/insights/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/videos/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/use-cases/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/resources/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/insights/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/videos/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/use-cases/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/resources/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/about-us/partners-clients/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/about-us/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/our-purpose/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/how-we-work/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/how-we-grow/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/about-us/partners-clients/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/xenonstack-university/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company-enablers/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/contact-us/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company-enablers/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://enterprise.xenonstack.com/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/solutions/cloud-native-applications/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/dataops/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/product-engineering/platform-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/cloud-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/big-data-analytics/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/cyber-security/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/managed-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/sre-managed/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/services/data-intelligence/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/technology-consulting/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/insights/digital-platform
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/industries/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/use-cases/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/internal-developer-platform/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/cloud-siem-managed/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/data-observability/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/explainable-ai-modelops/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/tag/data-science
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/edge-ai-vs-federated-learning
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/tag/enterprise-ai
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/machine-learning-platforms
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/tag/big-data-engineering
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/data-management-best-practices
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/tag/devops
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/seven-best-practices-for-enterprise-devops
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/neural-company/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.youtube.com/c/XenonStackOfficial
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.linkedin.com/company/xenonstack/
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.facebook.com/XenonStack
+{"logLevel":"debug","message":"Executing 'Validate all the headings' using 'class home.validateAllTheHeadings"}
+Trusted by the world’s leading enterprises and partners to futurify the businesses leveraging cloud native and AI.
+Human and Data-Centric Approach for Intelligent Outcomes
+Innovation Stack Approach enables enterprises to Improve the Business of Experience
+Technology Consulting and Strategy
+Technology Consulting and Strategy
+Use Cases
+Toolkit for Intelligent Decisioning
+Featured Blogs and Insights
+header 2 verified Trusted by the world’s leading enterprises and partners to futurify the businesses leveraging cloud native and AI.
+header 2 verified Human and Data-Centric Approach for Intelligent Outcomes
+header 2 verified Innovation Stack Approach enables enterprises to Improve the Business of Experience
+header 2 verified Technology Consulting and Strategy
+header 2 verified Technology Consulting and Strategy
+header 2 verified Use Cases
+header 2 verified Toolkit for Intelligent Decisioning
+header 2 verified Featured Blogs and Insights
+header 3 verified Build, Deploy and Run Modern Cloud Applications
+header 3 verified Harness the power of data in data-oriented world
+header 3 verified Build AI enabled applications to enhance business
+header 3 verified Build a Digital Platform
+header 3 verified Cloud Native Transformation
+header 3 verified Harness the Power of Data and Analytics
+header 3 verified Intelligent Process Automation
+header 3 verified Secure the Data and Information
+header 3 verified Manage the Cloud Infrastructure
+header 3 verified Enhancing AI and MLOps Capabilities
+header 3 verified SRE Managed Services
+header 3 verified Data Intelligence driven Solutions
+header 3 verified Platform Strategy
+header 3 verified DataOps and Data Mesh Strategy
+header 3 verified Multi Cloud Strategy
+header 3 verified Cloud Native Security
+header 3 verified Enterprise AI and Decision Intelligence
+header 3 verified Edge AI vs Federated Learning | Complete Overview
+header 3 verified Briefing Machine learning Platforms with Services and Solutions
+header 3 verified Acknowledging Data Management Best Practices with DataOps
+header 3 verified Top 10 Best Practices for Enterprise DevOps Transformation
+{"logLevel":"debug","message":"Executing 'Verify the contents' using 'class home.verifyTheContentForFachSubHeading"}
+ paragraph matched
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

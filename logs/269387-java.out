@@ -1,0 +1,183 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 461milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 461"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 36671"}
+{"logLevel":"info","message":"Listening on port:36671"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage' and 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Validate all the headings for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.verifyTheContentsForCloudMigrationPage' and 'cloud_migration.verifyTheContentsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Verify the contents for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.verifyTheContentForFachSubHeading' and 'home.verifyTheContentForFachSubHeading'"}
+{"logLevel":"debug","message":"Found Verify the contents in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage' and 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tVerify the contents for cloud migration page : public void verifyTheContentsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the contents : public void verifyTheContentForFachSubHeading()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation for cloud migration page : public void linksValidationAndTitlesValidationForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tValidate all the headings for cloud migration page : public void validateAllTheHeadingsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 29828
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 08, 2022 10:54:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Links validation and titles validation for cloud migration page' using 'class cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage"}
+XenonStack - Cloud Native and Data Intelligence Company,,,
+Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack,,,
+The Neural Company Enablers for Digital Transformation,,,
+XenonStack - Cloud Native and Data Intelligence Company,,,
+Artificial Intelligence Services and Solutions Company,,,
+Cloud Consulting Services, Advisory and Solutions Company,,,
+Big Data Consulting Services and Solutions Company,,,
+Digital Platform Engineering and Development Services Company,,,
+Computer Vision Services and Solutions Company - XenonStack,,,
+RPA Consulting Services, Development and Solution Company,,,
+Customer Analytics Services and Strategy Consulting Solutions,,,
+Natural Language Processing Services and Solutions Company,,,
+Cloud Native Application Development Services and Solutions,,,
+Application Modernization Services, Strategy and Solutions,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Hybrid-Multi Cloud Solutions and Services - XenonStack,,,
+Big Data Consulting Services and Solutions Company,,,
+Data Warehouse Consulting Services and Solutions Company,,,
+Big Data Analytics Consulting Services and Solution Company,,,
+Internet of Things (IoT) Consulting Services and Solutions,,,
+Data Visualization Consulting Services and Solutions Company,,,
+Digital Platform Engineering and Development Services Company,,,
+Connected Intelligent Enterprise Solutions Company,,,
+Managed Cloud Security Services and Deployment Solutions,,,
+Cloud Managed Services and Hybrid Management Platform,,,
+Digital Consulting Services for Business Transformation,,,
+Technology Solutions and End-to-End Service Provider,,,
+Digital Transformation Consulting Services and Solutions,,,
+GCP Migration and Application Modernization Services,,,
+AWS Cloud Migration Services and Consulting Solutions Company,,,
+Azure Cloud Migration and Modernization Services,,,
+Kubernetes Consulting Services and Solutions Provider Company,,,
+Continuous Delivery Solutions and Services with GitOps,,,
+Enterprise Knowledge Graph Solutions and Consulting Services,,,
+Data Catalog Platform with Governance and Security - Elixirdata,,,
+Machine Learning Development Services Company,,,
+Serverless Development and Data Engineering Services,,,
+Nexastack - The Infrastructure as Code Platform for Cloud Native,,,
+Real Time Analytics Services and Solutions - XenonStack,,,
+Digital Twin Consulting Services and Solutions for MetaVerse,,,
+Big Data Testing Services , Strategy and Solutions - XenonStack,,,
+Enterprise Search Solutions and Services Consulting Company,,,
+Blockchain Services and Development Solutions Company,,,
+Business Intelligence Services and Solutions - XenonStack,,,
+Digital Transformation Consulting Services and Solutions,,,
+Cloud Assessment and Adoption for DevOps, Big Data, AI - XenonStack,,,
+Artificial Intelligence Solutions for Data-Driven Enterprises,,,
+End-to-End DevOps Readiness Assessment for Enterprises,,,
+Cloud Strategy and Maturity Assessment for Enterprises,,,
+Big Data Maturity Model and Readiness Assessment,,,
+Data Science and Machine Learning Assessment,,,
+AI Services and Solutions for Infrastructure Development - XenonStack,,,
+Artificial Intelligence Solutions for Healthcare - XenonStack,,,
+Artificial Intelligence Services Offerings for Public Safety,,,
+Artificial Intelligence Powered for Finance, Banking Industry,,,
+Artificial Intelligence Enabled Cyber Security Solutions,,,
+Artificial Intelligence Solutions for Retail and Supply Chain Industry,,,
+AI and Analytics Driven Solutions for Insurance Sector - XenonStack,,,
+Artificial Intelligence based Solutions for Manufacturing,,,
+Industrial Digital Transformation Strategy and Business Consulting,,,
+Industrial Digital Transformation Strategy and Business Consulting,,,
+Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack,,,
+XenonStack Data Insights on DevOps, Cloud and Data Science,,,
+Videos on AI | DevOps | Real-Time Streaming Analytics - XenonStack,,,
+Solution Architecture And Use Cases - XenonStack,,,
+XenonStack Industry Insights for DevOps, Data Science, Cloud and AI,,,
+Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack,,,
+XenonStack Data Insights on DevOps, Cloud and Data Science,,,
+Videos on AI | DevOps | Real-Time Streaming Analytics - XenonStack,,,
+Solution Architecture And Use Cases - XenonStack,,,
+XenonStack Industry Insights for DevOps, Data Science, Cloud and AI,,,
+The Path to Become a Neural Company,,,
+XenonStack Cloud and DevOps Partners and Clients - XenonStack,,,
+The Path to Become a Neural Company,,,
+About us | Neural Company - MetaVerse | XenonStack,,,
+Our Purpose, Core Values, and Mission | XenonStack,,,
+How We Work | XenonStack Principles,,,
+How we work | XenonStack Principles,,,
+XenonStack Cloud and DevOps Partners and Clients - XenonStack,,,
+Stacklabs Training Academy - Ready to use Hands-on Cloud Enabled Labs,,,
+The Neural Company Enablers for Digital Transformation,,,
+The Path to Become a Neural Company,,,
+Strategic Partner for Cloud Native and AI Transformation,,,
+Blogs and Insights on Cloud, DevOps, Big Data Analytics, AI-XenonStack,,,
+The Neural Company Enablers for Digital Transformation,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Cloud Migration Services, Strategy and Solutions Company,,,
+Talk with Certified Cloud Consultants - XenonStack,,,
+Facebook,,,
+Twitter,,,
+LinkedIn Login, Sign in | LinkedIn,,,
+LinkedIn Login, Sign in | LinkedIn,,,
+Comprehending Key Elements for a Successful Cloud Migration,,,
+Cloud Infrastructure and Implementation Services and Solutions,,,
+Hybrid-Multi Cloud Solutions and Services - XenonStack,,,
+Cloud Native Application Development Services and Solutions,,,
+Cloud Managed Services and Hybrid Management Platform,,,
+Cloud Consulting Services, Advisory and Solutions Company,,,
+Technology Solutions and End-to-End Service Provider,,,
+GCP Migration and Application Modernization Services,,,
+AWS Cloud Migration Services and Consulting Solutions Company,,,
+Azure Cloud Migration and Modernization Services,,,
+Why do you need Multi Cloud Management? Best Practices and Strategy,,,
+Refactor vs Lift and Shift vs Containers - Who's the Best?,,,
+Adopt Hybrid Multi-Cloud Strategy Today to Create a Better Tomorrow,,,
+Data Analytics in Insurance Industry | The Ultimate Guide,,,
+Graph Analytics Adoption and Business Use-Cases,,,
+Building Serverless Application on Azure | Complete Guide,,,
+Top 7 Layers of MLOps Security | Advanced Guide,,,
+Natural Language Processing Applications and Techniques,,,
+Artificial Intelligence in Software Testing | Benefits and its Trends,,,
+Infrastructure As Code with AWS Cloudformation - Complete Guide,,,
+Complete guide to Ansible Configuration Management and its Features,,,
+Compliance as Code - Complete Guide,,,
+Ten Best Practices for effective Data Visualization,,,
+Top 3 Ways to Minimize the Main Thread Work | 2022,,,
+Tableau Data Visualization - Using Tableau for Business Intelligence,,,
+Top 6 Computer Vision Applications | 2022,,,
+ModelOps Monitoring Model KPI’s and its Benefits | A Quick Guide,,,
+AI-based Video Analytics | Benefits and Challenges,,,
+A Complete Guide to Google Cloud Platform Serverless Computing,,,
+AWS Serverless Computing, Benefits, Architecture and Use-cases,,,
+Automated Performance Testing Tools and Framework,,,
+Monitoring as a Service in Cloud Computing | Quick Guide,,,
+Cloud Governance Challenges and Best Practices,,,
+Functional vs Class-Components in React | Quick Guide,,,
+Enabling KEDA to Deploy Serverless, Event-Driven Containers,,,
+Starter's Guide to Helm - Package Manager for Kubernetes,,,
+Container Storage Interface (CSI) for Kubernetes,,,
+A Complete Guide for AWS Security Services and Compliance,,,
+Secure Coding Best Practices and Its Checklist,,,
+HTTP Security Headers and Precautionary Measures for Websites,,,
+A Look Back at XenonStack's 2021,,,
+XenonStack Glassdoor -Top 5 Traits of Technology SuperStar,,,
+2020 Calendar of XenonStack-From Covid Crisis to Create New Benchmark,,,
+Cloud Assessment and Adoption for DevOps, Big Data, AI - XenonStack,,,
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

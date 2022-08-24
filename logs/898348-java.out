@@ -1,0 +1,41 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 680milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 680"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 36577"}
+{"logLevel":"info","message":"Listening on port:36577"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.imagesInTheHomePage' and 'home.imagesInTheHomePage'"}
+{"logLevel":"debug","message":"Found Images in the home page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.links' and 'home.links'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.headings' and 'home.headings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage' and 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Validate all the headings for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.contents' and 'home.contents'"}
+{"logLevel":"debug","message":"Found Verify the contents in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.verifyTheContentsForCloudMigrationPage' and 'cloud_migration.verifyTheContentsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Verify the contents for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage' and 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tVerify the contents for cloud migration page : public void verifyTheContentsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void links() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the contents : public void contents()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation for cloud migration page : public void linksValidationAndTitlesValidationForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tValidate all the headings for cloud migration page : public void validateAllTheHeadingsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tImages in the home page : public void imagesInTheHomePage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void headings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 11014
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 11, 2022 6:04:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Links validation and titles validation for cloud migration page' using 'class cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage"}

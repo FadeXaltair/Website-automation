@@ -1,0 +1,152 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1096milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1096"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 39201"}
+{"logLevel":"info","message":"Listening on port:39201"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.verifyTheContentForFachSubHeading' and 'home.verifyTheContentForFachSubHeading'"}
+{"logLevel":"debug","message":"Found Verify the content for fach sub heading in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the content for fach sub heading : public void verifyTheContentForFachSubHeading()"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 21901
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 03, 2022 2:04:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Verify the content for fach sub heading' using 'class home.verifyTheContentForFachSubHeading"}
+paragraph Blogs ,,,
+paragraph Neural Company ,,,
+paragraph Customized video and text analytics solutions ,,,
+paragraph Improving business efficiency and productivity ,,,
+paragraph 360 degree customer and product recommendations ,,,
+paragraph NLU enables to understand human language and deliver insights ,,,
+paragraph Application development &amp; modernization with cloud ,,,
+paragraph Modernise your legacy applications ,,,
+paragraph Transformation and migration with microservices ,,,
+paragraph Common and interconnected workloads deployed across providers ,,,
+paragraph Enables superior data management and analytics ,,,
+paragraph Migrate and transform with Cloud Data Warehouse ,,,
+paragraph Decision Driven Data Analytics Strategy Consulting ,,,
+paragraph IoT Platform Solutions on Cloud and On-Premises ,,,
+paragraph Transforming data to actionable insights ,,,
+paragraph Enables growth with innovation and experimentation ,,,
+paragraph Interconnected business processes with modern technology ,,,
+paragraph Continuous application security with platform and infrastructure ,,,
+paragraph Managed Services ,,,
+paragraph Digital Consulting Services ,,,
+paragraph Implement Continuous Deployment and Cluster Management at scale ,,,
+paragraph Context-based knowledge transformation and analytics solutions ,,,
+paragraph Open MetaData Management and Smarter Data Discovery ,,,
+paragraph End to End Machine learning development and Model Operationalisation management (MLOps) ,,,
+paragraph Serverless application development with kubernetes, AWS lambda and Cloud functions ,,,
+paragraph Deployment automation and Release Engineering is foundation for Modern Infrastructure ,,,
+paragraph Streaming analytics for data experience ,,,
+paragraph Converging the physical and digital world with metaverse, AR and digital twins ,,,
+paragraph Big Data automation testing for scalable analytics applications ,,,
+paragraph Federated and Cognitive search with Machine Learning ,,,
+paragraph Decentralised Blockchain network for Hyperledger Fabric and Web3 applications ,,,
+paragraph BI modernisation strategy for data-centric experiences ,,,
+paragraph Enabling Cloud Native Transformation , Security as Core Fundamental and Augmented Analytics ,,,
+paragraph Enterprise DevOps Transformation Assessment and Strategy ,,,
+paragraph Cloud Strategy Readiness and Migration Consulting ,,,
+paragraph Enterprise Data Strategy and Consulting Solutions ,,,
+paragraph Enterprise AI and Analytics Strategy ,,,
+paragraph Artificial Intelligence services for infrastructure systems ,,,
+paragraph Applications of Artificial Intelligence in Modern Healthcare ,,,
+paragraph AI for Public Safety Service Offerings ,,,
+paragraph AI Based Services for Real-Time Digital Banking ,,,
+paragraph Enabling AI-powered smarter Cybersecurity solutions ,,,
+paragraph How AI is powering the transformation of the retail industry ,,,
+paragraph AI-powered Insurance Claim Processing and Fraud Analytics ,,,
+paragraph AI enabled services for connected Manufacturing ,,,
+paragraph How Cloud Native and AI Transformation improving Business of Experience ,,,
+paragraph Popular articles on DevOps, Big Data Engineering, Advanced Analytics, AI, Embedded Analytics and IoT ,,,
+paragraph Technology Insights on upcoming digital trends and next generation terminologies ,,,
+paragraph Videos and Solution Architecture detailed walkthrough for Serverless Applications, Cloud Native and Managed Services ,,,
+paragraph Podcast and Webinar sessions on industry challenges and recent development in the IT sector ,,,
+paragraph Explore more Featured Blogs , Insights and Use Cases ,,,
+paragraph Build your Cloud Native, AI First and Decision Driven Journey ,,,
+paragraph Growth for building strong career and leadership platform ,,,
+paragraph Agile and Iterative approach towards value driven delivery ,,,
+paragraph Continuous experimentation, Data-informed and Solution Approach ,,,
+paragraph XenonStack is a relationship-driven organization working towards providing the best results possible ,,,
+paragraph Ready to use hands-on Cloud Enabled labs ,,,
+paragraph Digital Twin MetaVerse enterprise synchronising the physical and digital with intelligent cloud and edge AI ,,,
+paragraph Transitioning towards Intelligent Automation and Augmented Intelligence ,,,
+paragraph Blogs ,,,
+paragraph Neural Company ,,,
+paragraph 
+              Cloud Native first approach and Data Intelligence helps to improve business of experience
+             ,,,
+paragraph An end-to-end solution for empowering enterprises to develop and deploy applications on the cloud. ,,,
+paragraph Building a data-driven organization involves processes to increase data literacy and to develop a culture to embrace new technology seamlessly. ,,,
+paragraph The path for being an AI-First organization starts from building scalable AI solutions, defining AI-driven business outcomes and building AI adoption strategy. ,,,
+paragraph 
+                                  Digital Platform Strategy and Tailored Development Solutions for ensuring 
+                                  streamlined platform integration, architecture implementation and Migration.
+                                 ,,,
+paragraph <span>Design and develop solutions which support Cloud-Native Capabilities, empowers business agility 
+                                  and accelerated cloud application implementation.</span> ,,,
+paragraph Decision Driven Data analytics strategy and Business Process Optimization for enabling data driven decision making and technology capabilities. ,,,
+paragraph End-to-End automation solutions for enterprise to enhance business operations, empower digitally augmented workforce and ensure streamlined governance. ,,,
+paragraph Managed Intelligent and Automated Security offerings for enterprises to monitor and enhance cyber security strategy implementation. ,,,
+paragraph  ,,,
+paragraph Fully Managed Services offerings to streamline IT operations efficiency and enable cost optimized infrastructures. ,,,
+paragraph Empowering enterprises to develop and enable industry leading AI-driven solutions and model governance best practices. Define business outcome and lead AI Transformation. ,,,
+paragraph End-to-End Managed Services for ensuring security and compliance, and streamlined cloud infrastructure management and monitoring ,,,
+paragraph Helping enterprises reinvent their business processes with Business Intelligence and Data Analytics enabled insights. ,,,
+paragraph Elements of Digital Platform and Strategy for achieving technological excellence and Digital Transformation success. ,,,
+paragraph Enterprise DataOps Transformation with Unified Platform for all data management, and running compute on Data Platform. ,,,
+paragraph Moving to a Multi-Cloud environment helps Enterprises to enable Vendor flexibility, higher scalability and availability. ,,,
+paragraph Building Cloud-Native applications for ensuring Application Resiliency, Business agility and developing maximum infrastructure flexibility and scalability. ,,,
+paragraph Build, Scale and Govern AI and Machine Learning Models at Scale and develop Enterprise AI capabilities. ,,,
+paragraph Elements of Digital Platform and Strategy for achieving technological excellence and Digital Transformation success. ,,,
+paragraph Enterprise DataOps Transformation with Unified Platform for all data management, and running compute on Data Platform. ,,,
+paragraph Moving to a Multi-Cloud environment helps Enterprises to enable Vendor flexibility, higher scalability and availability. ,,,
+paragraph Building Cloud-Native applications for ensuring Application Resiliency, Business agility and developing maximum infrastructure flexibility and scalability. ,,,
+paragraph Build, Scale and Govern AI and Machine Learning Models at Scale and develop Enterprise AI capabilities. ,,,
+paragraph How intelligent automation with AI and Cognitive Insights transforming the businesses to become Insight-Driven organization ,,,
+paragraph Product-mode organisations are formed with innovation stack approach and independent teams that respond rapidly to segmented and unsegmented user needs and continuous experimentation. Continuous Architecture Driven Approach towards modernization of application and data with agile principles enables organization towards data-informed decision making and business of experience. ,,,
+paragraph Video Analytics Engine with artificial intelligence is a platform to utilize advanced image processing algorithms to turn video into actionable intelligence. ,,,
+paragraph 3 Jan 2017 ,,,
+paragraph Play the Video ,,,
+paragraph If your enterprise wants to scale your capabilities and deploy cloud-native applications in kubernetes, then you must read this use case. ,,,
+paragraph 11 Jan 2018 ,,,
+paragraph Play the Video ,,,
+paragraph Build an observability platform for monitoring, logging, tracing and visualization of big data cluster and kubernetes with ML and Deep learning capabilities. ,,,
+paragraph 12 Feb 2018 ,,,
+paragraph Play the Video ,,,
+paragraph In the banking and financial sectors, the customer’s primary requirements and expectations play an essential role in choosing or leaving the bank. ,,,
+paragraph 23 Feb 2021 ,,,
+paragraph Play the Video ,,,
+paragraph An analytic platform is an integrated and proper solution configured to address the demands of users, unusually large data-driven companies. ,,,
+paragraph 13 May 2019 ,,,
+paragraph Play the Video ,,,
+paragraph Internal Developer Platform, Release Engineering and Infrastructure Automation ,,,
+paragraph Cloud SIEM and Managed SoC, AppSec with Continuous Compliance ,,,
+paragraph Data Observability Application Observability, AI Observability ,,,
+paragraph Explainable AI and ModelOps ,,,
+paragraph Real Time Interactions and decision data driven analytics to help businesses to make faster decisions for operational and customer-facing processes. ,,,
+paragraph 15 November 2021 ,,,
+paragraph 14 October 2021 ,,,
+paragraph 15 November 2021 ,,,
+paragraph 16 November 2021 ,,,
+paragraph We are members of : ,,,
+paragraph Partnerships &amp; Certifications : ,,,
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

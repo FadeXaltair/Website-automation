@@ -1,0 +1,241 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 610milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 610"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 33997"}
+{"logLevel":"info","message":"Listening on port:33997"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.imagesInTheHomePage' and 'home.imagesInTheHomePage'"}
+{"logLevel":"debug","message":"Found Images in the home page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.validateAllTheHeadings' and 'home.validateAllTheHeadings'"}
+{"logLevel":"debug","message":"Found Validate all the headings in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage' and 'cloud_migration.validateAllTheHeadingsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Validate all the headings for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.verifyTheContentsForCloudMigrationPage' and 'cloud_migration.verifyTheContentsForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Verify the contents for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'home.verifyTheContentForFachSubHeading' and 'home.verifyTheContentForFachSubHeading'"}
+{"logLevel":"debug","message":"Found Verify the contents in current project scope."}
+{"logLevel":"debug","message":"Comparing 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage' and 'cloud_migration.linksValidationAndTitlesValidationForCloudMigrationPage'"}
+{"logLevel":"debug","message":"Found Links validation and titles validation for cloud migration page in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tVerify the contents for cloud migration page : public void verifyTheContentsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation : public void third() throws InterruptedException"}
+{"logLevel":"debug","message":"\tVerify the contents : public void verifyTheContentForFachSubHeading()"}
+{"logLevel":"debug","message":"\tLinks validation and titles validation for cloud migration page : public void linksValidationAndTitlesValidationForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tValidate all the headings for cloud migration page : public void validateAllTheHeadingsForCloudMigrationPage()"}
+{"logLevel":"debug","message":"\tImages in the home page : public void imagesInTheHomePage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tValidate all the headings : public void validateAllTheHeadings()"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 29909
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 08, 2022 2:46:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Images in the home page' using 'class home.imagesInTheHomePage"}
+No. of Images: 157
+images : XenonStack Search
+images : Xenonstack Logo
+images : Xenonstack Hamburger
+images : XenonStack Dropdown
+images : XenonStack Dropdown
+images : Xenonstack Logo
+images : Xenonstack Down Arrow
+images : XenonStack Computer Vision
+images : XenonStack Robotic Process Automation
+images : XenonStack Cognitive Customer Analytics
+images : XenonStack Natural Language Processing
+images : XenonStack Cloud Native Applications
+images : XenonStack Cloud Analytics
+images : XenonStack Cloud Migration
+images : XenonStack Hybrid Multi Cloud
+images : XenonStack Enterprise Data Strategy
+images : XenonStack Data Warehouse Moderization
+images : XenonStack Big Data Analytics
+images : XenonStack Internet of Things
+images : XenonStack Product Engineering
+images : XenonStack Digital Platform Strategy
+images : XenonStack Intelligent Enterprise
+images : XenonStack Cloud Native Security
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : Xenonstack Down Arrow
+images : XenonStack Google Cloud
+images : XenonStack Amazon AWS
+images : XenonStack Microsoft Azure
+images : XenonStack Kubernetes
+images : XenonStack GitOps with Continuous Delivery
+images : XenonStack Knowledge Graph and Graph Analytics
+images : XenonStack Data Catalog and Discovery Platform
+images : XenonStack Augmented Data Quality and Management
+images : XenonStack Serverless Data Mesh Platform
+images : XenonStack Video Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Time Series Analytics
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : Xenonstack Down Arrow
+images : XenonStack DevOps Assessment
+images : XenonStack Cloud Assessment
+images : XenonStack Big Data Assessment
+images : XenonStack Data SCience Assessment
+images : XenonStack Infrastructure
+images : XenonStack Digital Heathcare
+images : XenonStack Public Safety
+images : XenonStack Digital Banking
+images : XenonStack Cyber Security
+images : XenonStack Retail Transformation
+images : XenonStack Digital Insurance
+images : XenonStack Digital Manufacturing
+images : XenonStack Industries Services
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : Xenonstack Down Arrow
+images : XenonStack Resources
+images : XenonStack blogs
+images : XenonStack insights
+images : XenonStack Videos
+images : XenonStack UseCase
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : Xenonstack Down Arrow
+images : XenonStack Company Services
+images : XenonStack About Us
+images : XenonStack TAO
+images : XenonStack TAO
+images : XenonStack TAO
+images : XenonStack Clients and Partners
+images : XenonStack StackLabs
+images : XenonStack StackLabs
+images : XenonStack Drop Down
+images : XenonStack Right Arrow
+images : XenonStack Search
+images : XenonStack Dropdown
+images : XenonStack Dropdown
+images : Building Digital Platform
+images : Building Digital Platform
+images : XenonStack Carhartt
+images : XenonStack Landmark
+images : XenonStack Ford
+images : XenonStack AWS
+images : XenonStack Subex
+images : XenonStack CNCF
+images : XenonStack Vestas
+images : XenonStack Techstyleos
+images : XenonStack Kubernetes
+images : XenonStack Carhartt
+images : XenonStack Landmark
+images : XenonStack Ford
+images : XenonStack AWS
+images : XenonStack Subex
+images : XenonStack CNCF
+images : XenonStack Vestas
+images : XenonStack Techstyleos
+images : XenonStack Kubernetes
+images : Left Arrow
+images : Right Arrow
+images : Snapshot Isolation Icon
+images : Faster Insights Icon
+images : Data Versioning  Icon
+images : Data Consistency Icon
+images : Metadata Handling Icon
+images : ACID Properties Icon
+images : Data Consistency Icon
+images : Metadata Handling Icon
+images : ACID Properties Icon
+images : XenonStack Platform Strategy
+images : XenonStack DataOps Strategy
+images : XenonStack Multi Cloud Strategy
+images : XenonStack Cloud Native Security
+images : XenonStack Enterprise AI
+images : XenonStack Platform Strategy
+images : XenonStack DataOps Strategy
+images : XenonStack Multi Cloud Strategy
+images : XenonStack Cloud Native Security
+images : XenonStack Enterprise AI
+images : XenonStack Modal
+images : XenonStack Internal Developer
+images : Xenonstack Right Arrow
+images : Xenonstack Right Arrow
+images : XenonStack Cloud SIEM
+images : Xenonstack Right Arrow
+images : Xenonstack Right Arrow
+images : XenonStack Data Observability
+images : Xenonstack Right Arrow
+images : Xenonstack Right Arrow
+images : XenonStack Explainable AI ModelOps
+images : Xenonstack Right Arrow
+images : Xenonstack Right Arrow
+images : XenonStack ToolKit
+images : XenonStack Data Science
+images : XenonStack Enterprise AI
+images : XenonStack Big Data Engineering
+images : XenonStack DevOps
+images : Youtube
+images : Linkedin
+images : Facebook
+images : Twitter
+images : Medium
+images : Instagram
+images : Cloud Native
+images : Linux
+images : AI Foundation
+images : Xenonstack Microsoft Member
+images : Google Cloud Member
+images : Xenonstack Partners Databricks
+images : Xenonstack Partners Kubernates
+images : AWS Partners
+XenonStack Search
+Xenonstack Logo
+Xenonstack Hamburger
+Building Digital Platform
+XenonStack Subex
+XenonStack CNCF
+XenonStack Vestas
+XenonStack Techstyleos
+Left Arrow
+Right Arrow
+Snapshot Isolation Icon
+Faster Insights Icon
+Data Versioning  Icon
+XenonStack Platform Strategy
+XenonStack Internal Developer
+Xenonstack Right Arrow
+XenonStack Cloud SIEM
+Xenonstack Right Arrow
+XenonStack Data Observability
+Xenonstack Right Arrow
+XenonStack Explainable AI ModelOps
+Xenonstack Right Arrow
+XenonStack ToolKit
+Youtube
+Linkedin
+Facebook
+Twitter
+Medium
+Instagram
+Cloud Native
+Linux
+AI Foundation
+Xenonstack Microsoft Member
+Google Cloud Member
+Xenonstack Partners Databricks
+Xenonstack Partners Kubernates
+AWS Partners
+No. of total displable images: 37
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

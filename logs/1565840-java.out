@@ -1,0 +1,72 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 529milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 529"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 42099"}
+{"logLevel":"info","message":"Listening on port:42099"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'home.third' and 'home.third'"}
+{"logLevel":"debug","message":"Found abcdef in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tabcdef : public void third() throws InterruptedException"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 18118
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 01, 2022 2:22:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'abcdef' using 'class home.third"}
+ here is size of link: 163
+THe URL is valid https://www.xenonstack.com/
+###true
+The title and URL is valid
+We are at verified page
+THe URL is valid https://www.xenonstack.com/blog/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/neural-company-enablers/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/cloud-services/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/services/big-data-services/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/product-engineering/platform-services/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/computer-vision/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/cognitive-customer-analytics/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/artificial-intelligence-services/natural-language-processing/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/solutions/cloud-native-applications/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/solutions/application-modernization/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/services/cloud-migration/
+###true
+not equal
+THe URL is valid https://www.xenonstack.com/hybrid-and-multi-cloud/
+###true

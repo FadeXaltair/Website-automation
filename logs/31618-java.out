@@ -1,0 +1,356 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 574milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 574"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 43529"}
+{"logLevel":"info","message":"Listening on port:43529"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.third' and 'StepImplementation.third'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void third() throws InterruptedException"}
+Starting ChromeDriver 103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262}) on port 13134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 26, 2022 5:45:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Go to Gauge Get Started Page' using 'class StepImplementation.third"}
+https://www.xenonstack.com/
+
+https://www.xenonstack.com/blog/
+
+https://www.xenonstack.com/neural-company-enablers/
+
+https://www.xenonstack.com/
+
+https://www.xenonstack.com/artificial-intelligence-services/
+
+https://www.xenonstack.com/cloud-services/
+
+https://www.xenonstack.com/services/big-data-services/
+
+https://www.xenonstack.com/product-engineering/platform-services/
+
+https://www.xenonstack.com/artificial-intelligence-services/computer-vision/
+
+https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+
+https://www.xenonstack.com/artificial-intelligence-services/cognitive-customer-analytics/
+
+https://www.xenonstack.com/artificial-intelligence-services/natural-language-processing/
+
+https://www.xenonstack.com/solutions/cloud-native-applications/
+
+https://www.xenonstack.com/solutions/application-modernization/
+
+https://www.xenonstack.com/services/cloud-migration/
+
+https://www.xenonstack.com/hybrid-and-multi-cloud/
+
+https://www.xenonstack.com/services/big-data-services/
+
+https://www.xenonstack.com/solutions/data-warehouse/
+
+https://www.xenonstack.com/big-data-analytics/
+
+https://www.xenonstack.com/solutions/internet-of-things/
+
+https://www.xenonstack.com/big-data-analytics/data-visualization/
+
+https://www.xenonstack.com/product-engineering/platform-services/
+
+https://www.xenonstack.com/connected-intelligent-enterprise/
+
+https://www.xenonstack.com/cloud-security/
+
+https://www.xenonstack.com/managed-services/
+
+https://www.xenonstack.com/services/
+
+https://www.xenonstack.com/technology-consulting/
+
+https://www.xenonstack.com/solutions/
+
+https://www.xenonstack.com/technology-consulting/google-cloud-platform/
+
+https://www.xenonstack.com/technology-consulting/aws-cloud-services/
+
+https://www.xenonstack.com/technology-consulting/azure-cloud-services/
+
+https://www.xenonstack.com/solutions/kubernetes-solutions/
+
+https://www.xenonstack.com/gitops-continuous-delivery/
+
+https://www.xenonstack.com/knowledge-graph/
+
+https://www.xenonstack.com/product-engineering/data-catalog-platform/
+
+https://www.xenonstack.com/big-data-analytics/machine-learning/
+
+https://www.xenonstack.com/services/serverless-development/
+
+https://www.xenonstack.com/product-engineering/infrastructure-as-code-platform/
+
+https://www.xenonstack.com/services/real-time-analytics/
+
+https://www.xenonstack.com/digital-twin/
+
+https://www.xenonstack.com/solutions/big-data-testing/
+
+https://www.xenonstack.com/enterprise-search/
+
+https://www.xenonstack.com/solutions/blockchain/
+
+https://www.xenonstack.com/solutions/business-intelligence/
+
+https://www.xenonstack.com/solutions/
+
+https://www.xenonstack.com/readiness-assessment/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/
+
+https://www.xenonstack.com/readiness-assessment/devops-strategy/
+
+https://www.xenonstack.com/readiness-assessment/cloud-consulting/
+
+https://www.xenonstack.com/readiness-assessment/big-data-assessment/
+
+https://www.xenonstack.com/readiness-assessment/data-science-strategy/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/infrastructure/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/healthcare/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/public-safety/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/banking-and-finance/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/cyber-security/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/retail-supply-chain/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/insurance/
+
+https://www.xenonstack.com/artificial-intelligence-solutions/manufacturing/
+
+https://www.xenonstack.com/industries/
+
+https://www.xenonstack.com/industries/
+
+https://www.xenonstack.com/blog/
+
+https://www.xenonstack.com/insights/
+
+https://www.xenonstack.com/videos/
+
+https://www.xenonstack.com/use-cases/
+
+https://www.xenonstack.com/resources/
+
+https://www.xenonstack.com/blog/
+
+https://www.xenonstack.com/insights/
+
+https://www.xenonstack.com/videos/
+
+https://www.xenonstack.com/use-cases/
+
+https://www.xenonstack.com/resources/
+
+https://www.xenonstack.com/neural-company/
+
+https://www.xenonstack.com/about-us/partners-clients/
+
+https://www.xenonstack.com/neural-company/
+
+https://www.xenonstack.com/about-us/
+
+https://www.xenonstack.com/our-purpose/
+
+https://www.xenonstack.com/how-we-work/
+
+https://www.xenonstack.com/how-we-grow/
+
+https://www.xenonstack.com/about-us/partners-clients/
+
+https://www.xenonstack.com/xenonstack-university/
+
+https://www.xenonstack.com/neural-company-enablers/
+
+https://www.xenonstack.com/neural-company/
+
+https://www.xenonstack.com/contact-us/
+
+https://www.xenonstack.com/blog/
+
+https://www.xenonstack.com/neural-company-enablers/
+
+https://enterprise.xenonstack.com/
+GET ASSESSMENT
+https://www.xenonstack.com/solutions/cloud-native-applications/
+Build, Deploy and Run Modern Cloud Applications
+https://www.xenonstack.com/services/dataops/
+Harness the power of data in data-oriented world
+https://www.xenonstack.com/artificial-intelligence-services/
+Build AI enabled applications to enhance business
+https://www.xenonstack.com/product-engineering/platform-services/
+Learn More
+https://www.xenonstack.com/cloud-services/
+Learn More
+https://www.xenonstack.com/big-data-analytics/
+Learn More
+https://www.xenonstack.com/artificial-intelligence-services/rpa-services/
+
+https://www.xenonstack.com/cyber-security/
+
+https://www.xenonstack.com/managed-services/
+
+https://www.xenonstack.com/artificial-intelligence-services/
+
+https://www.xenonstack.com/sre-managed/
+
+https://www.xenonstack.com/services/data-intelligence/
+
+https://www.xenonstack.com/technology-consulting/
+
+https://www.xenonstack.com/insights/digital-platform
+Technology Consulting
+https://www.xenonstack.com/industries/
+
+https://www.xenonstack.com/use-cases/
+Explore More
+https://www.xenonstack.com/internal-developer-platform/
+Internal Developer Platform, Release Engineering and Infrastructure Automation
+https://www.xenonstack.com/cloud-siem-managed/
+Cloud SIEM and Managed SoC, AppSec with Continuous Compliance
+https://www.xenonstack.com/data-observability/
+Data Observability Application Observability, AI Observability
+https://www.xenonstack.com/explainable-ai-modelops/
+Explainable AI and ModelOps
+https://www.xenonstack.com/blog/tag/data-science
+Data Science
+https://www.xenonstack.com/blog/edge-ai-vs-federated-learning
+Edge AI vs Federated Learning | Complete Overview
+https://www.xenonstack.com/blog/tag/enterprise-ai
+Enterprise AI
+https://www.xenonstack.com/blog/machine-learning-platforms
+Briefing Machine learning Platforms with Services and Solutions
+https://www.xenonstack.com/blog/tag/big-data-engineering
+Big Data Engineering
+https://www.xenonstack.com/blog/data-management-best-practices
+Acknowledging Data Management Best Practices with DataOps
+https://www.xenonstack.com/blog/tag/devops
+DevOps
+https://www.xenonstack.com/blog/seven-best-practices-for-enterprise-devops
+Top 10 Best Practices for Enterprise DevOps Transformation
+https://www.xenonstack.com/neural-company/
+KNOW MORE
+https://landscape.cncf.io/members?selected=xenon-stack-member
+
+https://www.linuxfoundation.org/join/members/
+
+https://landscape.lfai.foundation/members?zoom=120
+
+https://partners.amazonaws.com/partners/001E000001AoR0YIAV/XenonStack
+
+https://cloud.withgoogle.com/partners/detail/?id=xenonstack&hl=en-GB
+
+https://www.hashicorp.com/
+
+https://landscape.cncf.io/card-mode?organization=xenon-stack&selected=xenon-stack-kcsp
+
+https://www.microsoft.com/en-in/solution-providers/partnerdetails/8a2cd0b5-3295-47c4-8827-26b211c833b2/f7e5bac0-4340-4ec5-81c2-28c006dbc361
+
+https://www.youtube.com/c/XenonStackOfficial
+
+https://www.linkedin.com/company/xenonstack/
+
+https://www.facebook.com/XenonStack
+
+https://twitter.com/xenonstack
+
+https://medium.com/@xenonstack
+
+https://www.instagram.com/teamxenonstack/
+
+https://www.xenonstack.com/about-us/
+About us
+https://www.xenonstack.com/services/
+Services
+https://www.xenonstack.com/solutions/
+Solutions
+https://www.xenonstack.com/careers/
+Careers
+https://www.xenonstack.com/product-engineering/user-experience/
+Human Interaction
+https://www.xenonstack.com/solutions/enterprise-application/
+Modular Driven
+https://www.xenonstack.com/services/software-development/
+API Driven
+https://www.xenonstack.com/product-engineering/
+Platform Strategy
+https://www.xenonstack.com/big-data-analytics/data-science/
+Data and AI
+https://www.xenonstack.com/readiness-assessment/cloud-consulting/
+Cloud Strategy
+https://www.xenonstack.com/readiness-assessment/big-data-assessment/
+Big Data Strategy
+https://www.xenonstack.com/readiness-assessment/devops-strategy/
+Devops
+https://www.xenonstack.com/readiness-assessment/data-science-strategy/
+AI
+https://www.xenonstack.com/knowledge-graph/
+Knowledge Graph and Graph Analytics
+https://www.xenonstack.com/product-engineering/data-catalog-platform/
+Data Catalog and Discovery Platform
+https://www.xenonstack.com/augmented-data-quality/
+Augmented Data Quality and Management
+https://www.xenonstack.com/aws-serverless-solutions/
+Serverless Data Mesh Platform
+https://www.xenonstack.com/insights/workplace-analytics/
+Video Analytics
+https://www.xenonstack.com/insights/time-series-databases-in-real-time-analytics/
+Time Series Analytics
+https://www.xenonstack.com/insights/managed-analytics/
+Managed Analytics Services
+https://www.xenonstack.com/sre-managed/
+SRE Managed Services
+https://www.xenonstack.com/managed-ai-cloud/
+Managed AI Cloud
+https://www.xenonstack.com/on-prem-ai-cluster/
+On-Premises AI Cluster
+https://www.xenonstack.com/careers/
+JOB OPENINGS
+https://www.xenonstack.com/product-engineering/
+Products
+https://www.elixirdata.com/
+ElixirData
+https://www.nexastack.com/
+Nexastack
+https://www.metasecure.ai/
+Akirastack
+https://www.akira.ai/
+Akira AI
+https://www.xenonstack.com/privacy-policy/
+System Status
+https://www.xenonstack.com/privacy-policy/
+Cookie Manager
+https://www.xenonstack.com/privacy-policy/
+Terms of Use
+https://www.xenonstack.com/privacy-policy/
+Security
+https://www.xenonstack.com/privacy-policy/
+Privacy
+https://www.xenonstack.com/privacy-policy/
+Trademark Policy
+164
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
